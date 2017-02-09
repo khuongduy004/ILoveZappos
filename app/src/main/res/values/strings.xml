@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+
+    <string name="searchButton">Search</string>
+    <string name="searchHint">Search&#8230;</string>
+
+    <string name="thumbnail">Thumbnail</string>
+    <string name="name_text">Brand: </string>
+    <string name="price_text">Original price: </string>
+    <string name="current_text">Sale price: </string>
+    <string name="id_text">Product ID: </string>
+    <string name="style_id_text">Style ID: </string>
+    <string name="color_id_text">Color ID: </string>
+    <string name="sale_text">DISCOUNT</string>
+</resources>
